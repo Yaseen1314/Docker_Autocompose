@@ -22,7 +22,7 @@
 autocompose="red5d/docker-autocompose"
 
 # Set the path where you want to .yml files saved to. If blank will save in your home.
-saveto="/volume1/Docker"
+saveto="/volume2/docker"
 
 
 #--------------------------------------------------------------------------------------
