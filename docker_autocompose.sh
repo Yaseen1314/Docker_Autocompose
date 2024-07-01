@@ -4,7 +4,6 @@
 #
 # Script can be run with a container name parameter to only process that container:
 # sudo -s docker-autocompose.sh plex
-#
 # Or with no parameter, or the "all" parameter, to process all running containers:
 # sudo -s docker-autocompose.sh all
 #
